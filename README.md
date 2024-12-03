@@ -3,7 +3,7 @@ Self-project (showcase my skills for hiring). Data analysis and machine learning
 
 
 ## Problem statement
-An analytics company focused on mobile user behavior.They analyze data about how people use their phones and provide insights to handset manufacturers and app developers. The latest goal is customer segmentation.
+An analytics company focused on mobile user behavior. They analyze data about how people use their phones and provide insights to handset manufacturers and app developers. The latest goal is customer segmentation.
 We want to understand if there are groups of users who behave in a similar way.
 Knowing these user segments would be useful because their clients could target entire user bases with different initiatives.
 with different initiatives.
