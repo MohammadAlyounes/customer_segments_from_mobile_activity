@@ -2,7 +2,7 @@
 Self-project (showcase my skills for hiring). Data analysis and machine learning real-world project.
 
 
-## Problem statement: 
+## Problem statement
 An analytics company focused on mobile user behavior.They analyze data about how people use their phones and provide insights to handset manufacturers and app developers. The latest goal is customer segmentation.
 We want to understand if there are groups of users who behave in a similar way.
 Knowing these user segments would be useful because their clients could target entire user bases with different initiatives.
@@ -24,3 +24,6 @@ There is another data set called App_categories. The data is generated using Cha
 
 ## Desired outcomes
 The end result is the definition of our user segments - that is, what factors describe each segment and which users belong to which group.
+
+## Report summary
+In the file report.pdf, I have included a general overview of the project along with some key insights. This document is particularly useful for non-technical stakeholders who may not have the same level of familiarity with the project as the technical team.
