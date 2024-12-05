@@ -10,7 +10,7 @@ with different initiatives.
 
 
 ## Datasets
-Our original dataset have the following schema:
+Our original dataset has the following structure:
 
 | Column Name   | Description                              |
 |---------------|------------------------------------------|
@@ -24,6 +24,3 @@ There is another data set called App_categories. The data is generated using Cha
 
 ## Desired outcomes
 The end result is the definition of our user segments - that is, what factors describe each segment and which users belong to which group.
-
-## Report summary
-In the file report.pdf, I have included a general overview of the project along with some key insights. This document is particularly useful for non-technical stakeholders who may not have the same level of familiarity with the project as the technical team.
