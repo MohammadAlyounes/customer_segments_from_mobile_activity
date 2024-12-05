@@ -1,5 +1,5 @@
 # Customer_segments_from_mobile_activity
-Self-project (showcase my skills for hiring). Data analysis and machine learning real-world project.
+Self-project. I am seeking to showcase my skills in a way that will be appealing to potential employers. A data analysis and machine learning project with real-world applications.
 
 
 ## Problem statement
